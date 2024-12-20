@@ -13,7 +13,11 @@ Do the same as https://yukigasai.github.io/obsidian-google-calendar/Setup, but:
 
 ## Usage
 
-Just use global search as usual, first 10 results would be from Google Drive sorted by last time accessed. You can click on the result to open the file in browser.
+Use the global search and press enter in the search field (the plugin reacts on keypress Enter), first 10 results would be from Google Drive sorted by last time accessed. You can click on the result to open the file in browser.
+
+## Known bugs
+
+If you scroll down the search results, google drive would disappear. This is because Obsidian redraws the virtual display and I have no idea yet where the actual results are stored. If you know - please tell me. Thx.
 
 ## Spoiler
 

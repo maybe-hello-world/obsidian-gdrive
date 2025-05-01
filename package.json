@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-gdrive-search",
+	"name": "gdrive-search",
 	"version": "0.0.1",
 	"description": "Adds searching over available Google Drive files to the global search",
 	"main": "main.js",

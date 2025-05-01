@@ -50,7 +50,7 @@ export default class OGDSPlugin extends Plugin {
 		this.keypressHandler = (event: KeyboardEvent) => {
 			if (event.key === 'Enter') {
 				// @ts-ignore
-				searchGDocs(this.app.plugins.plugins['obsidian-gdrive-search'], search.getQuery());
+				searchGDocs(this.app.plugins.plugins['gdrive-search'], search.getQuery());
 			}
 		};
 

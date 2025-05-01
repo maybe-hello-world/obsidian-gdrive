@@ -8,6 +8,12 @@ Use the global search and press enter in the search field (the plugin reacts on 
 
 ![Demo](./resources/gdrive.gif)
 
+## Disclosures
+This plugin:
+
+- Requires network to access the remote files.
+- Requires access to **your Google Drive** (outside of the Obsidian vault, read as full read access to all your GDrive files and files shared with you) to provide you search results. I recommend to manually build and deploy the plugin for privacy reasons (to be sure what you're installing).
+
 ## Installation
 
 Either use BRAT or take files from the release and manually put them into the plugins folder of your Obsidian vault (.obsidian/plugins/gdrive-search).
@@ -27,4 +33,5 @@ If you scroll down the search results, google drive would disappear. This is bec
 
 ## Spoiler
 
-No guarantees provided. Pull requests are welcome, especially in the results representation part.
+No guarantees provided. This is pretty much an abomination and potentially (almost certainly) might break some other plugins, themes, or experiences. Be aware of it.
+Pull requests are welcome, especially in the results representation part.

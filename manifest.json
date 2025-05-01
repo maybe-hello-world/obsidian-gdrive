@@ -3,7 +3,7 @@
 	"name": "Google Drive Search",
 	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
-	"description": "Adds searching over available Google Drive files",
+	"description": "Allows full-text search over Google Drive files in addition to the local vault",
 	"author": "@maybehelloworld",
 	"authorUrl": "https://github.com/maybe-hello-world",
 	"isDesktopOnly": false

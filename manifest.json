@@ -1,7 +1,7 @@
 {
 	"id": "gdrive-search",
 	"name": "Google Drive Search",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Adds searching over available Google Drive files",
 	"author": "@maybehelloworld",

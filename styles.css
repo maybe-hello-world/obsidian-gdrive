@@ -1,0 +1,12 @@
+/* 
+spacer.classList.add('gdrive-search-results-spacer');
+spacer.style.width = '1px';
+spacer.style.height = '0.1px';
+spacer.style.marginBottom = '0px'; 
+*/
+
+.gdrive-search-results-spacer {
+    width: --divider-width;
+    height: 0.1px;
+    margin-bottom: 0px; 
+}

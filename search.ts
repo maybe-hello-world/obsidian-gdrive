@@ -78,9 +78,7 @@ function gdriveFileMatch(match: drive_v3.Schema$File): HTMLDivElement {
 function gdriveFileMatches(results: drive_v3.Schema$File[]) {
 	function getSpacer() {
 		const spacer = document.createElement('div');
-		spacer.style.width = '1px';
-		spacer.style.height = '0.1px';
-		spacer.style.marginBottom = '0px';
+		spacer.classList.add('gdrive-search-results-spacer');
 		return spacer;
 	}
 
